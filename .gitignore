@@ -1,0 +1,9 @@
+# npm
+node_modules
+
+# editors
+.DS_store
+.idea/
+
+# build
+public
